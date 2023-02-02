@@ -1,5 +1,3 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=熠熠星光·默默无闻&center=true&size=27"> </a> </h1>
-
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
 # 👋Hello
