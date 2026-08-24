@@ -1,7 +1,5 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-## 关于我
-你好，我是 kelaner，一名来自青岛的男生，对技术充满热情，尤其对人工智能（AI）领域有着浓厚的兴趣。我目前专注于前端开发，同时也积极探索AI技术在各个领域的应用，致力于通过技术创新为用户带来更智能、更高效、更有趣的体验。
 ## 技能
 
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white&color=61DAFB)  ![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat&logo=react&logoColor=white&color=61DAFB)  ![Vue](https://img.shields.io/badge/Vue-000000?style=flat&logo=vue.js&logoColor=white&color=4FC08D)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&color=000000)  
